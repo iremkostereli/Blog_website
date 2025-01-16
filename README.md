@@ -1,1 +1,1 @@
-The blog developed using ASP.NET Core MVC in C#.
+Blog project developed in C# using ASP.Net Core MVC.
