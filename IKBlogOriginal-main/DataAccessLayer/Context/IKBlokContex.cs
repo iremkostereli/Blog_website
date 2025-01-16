@@ -1,6 +1,3 @@
-﻿#define salihveritabani
-#undef iremveritabani
-
 using System;
 using System.Collections.Generic;
 using DataAccess.Context;
